@@ -14,6 +14,7 @@
     "jest": "^21.2.1",
     "jest-cli": "^21.2.1",
     "babel-jest": "^21.2.0",
+    "babel-core": "^6.26.3",
     "enzyme-adapter-react-16": "1.2.0"
   },
   "scripts": {
