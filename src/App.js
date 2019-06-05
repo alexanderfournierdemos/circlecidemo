@@ -6,7 +6,7 @@ import demos from './demos'
 export default class App extends Component {
   render () {
     return (
-      <div
+      <div id = "test"
         style={{
           padding: '48px 0',
           background: '#000',
@@ -15,12 +15,6 @@ export default class App extends Component {
           color: '#fff'
         }}
       >
-
-
-        <h1 style={{ textAlign: 'center' }}>
-          React Particle Effect Buttons
-        </h1>
-
         <div
           style={{
             display: 'flex',
