@@ -6,7 +6,7 @@ import demos from './demos'
 export default class App extends Component {
   render () {
     return (
-      <div id = "test"
+      <div
         style={{
           padding: '48px 0',
           background: '#000',
